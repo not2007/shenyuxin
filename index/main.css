@@ -1,10 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Fractal by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html,
 body,
@@ -3398,7 +3393,7 @@ table.alt tbody tr td {
 }
 
 #header .image {
-	/*box-shadow: 0 0 0 4px #4696e5, 0 0 0 5px rgba(255, 255, 255, 0.25);*/
+
 }
 
 #header .image.phone {
@@ -3554,7 +3549,7 @@ table.alt tbody tr td {
 
 @media screen and (max-width: 1280px) {
 	#header {
-		/*background-image: url("images/overlay.png"), url("images/pattern-size2.svg");*/
+	
 	}
 }
 
@@ -3595,7 +3590,7 @@ table.alt tbody tr td {
 
 @media screen and (max-width: 736px) {
 	#header {
-		/*background-image: url("images/overlay.png"), url("images/pattern-size3.svg");*/
+		
 	}
 	#header h1 {
 		font-size: 2em;
